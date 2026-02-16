@@ -19,4 +19,4 @@ Working with messy data is a common challenge for Data Professionals. This proje
 - `README.md`: Project documentation.
 
 ## 📧 Contact
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ryansof22) for collaborations or inquiries regarding data automation solutions.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ryan-sofiyulloh) for collaborations or inquiries regarding data automation solutions.
